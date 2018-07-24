@@ -1,0 +1,6 @@
+{
+  "require": {
+    "paralleldots/apis": "*"
+  },
+  "minimum-stability": "dev"
+}

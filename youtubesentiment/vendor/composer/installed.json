@@ -1,0 +1,33 @@
+[
+    {
+        "name": "paralleldots/apis",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/ParallelDots/ParallelDots-PHP-API.git",
+            "reference": "d54a41fdc5642f60be8a144328aed80b2cfff660"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/ParallelDots/ParallelDots-PHP-API/zipball/d54a41fdc5642f60be8a144328aed80b2cfff660",
+            "reference": "d54a41fdc5642f60be8a144328aed80b2cfff660",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "3.7.*"
+        },
+        "time": "2018-07-05T08:55:44+00:00",
+        "type": "project",
+        "installation-source": "source",
+        "notification-url": "https://packagist.org/downloads/",
+        "description": "Rest Api Wrapper for PHP.",
+        "keywords": [
+            "ParallelDots",
+            "Rest Api Wrapper for PHP"
+        ]
+    }
+]
